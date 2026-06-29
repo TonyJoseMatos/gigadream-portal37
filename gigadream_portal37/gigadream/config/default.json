@@ -1,0 +1,28 @@
+{
+  "gigadream": {
+    "title": "GIGADREAM // PORTAL 37",
+    "subtitle": "Beachpunk Transmission • Latinobionic Orbit • No Masters",
+    "focus": "GIGADREAM",
+    "hints": ["beachpunk", "PORTAL 37", "sandtech", "TERRA II"],
+    "glitch_intensity_default": 0.22,
+    "animation_speed": 0.32,
+    "duration_default": 11
+  },
+  "sound": {
+    "enabled": true,
+    "beach_waves": {"pattern": "slow_roll", "intensity": 0.6},
+    "orbital_space": {"pattern": "long_tone", "intensity": 0.4},
+    "starjet": {"pattern": "fast_ascend", "intensity": 0.8},
+    "portal": {"pattern": "swirl_whoosh", "intensity": 0.7}
+  },
+  "visual": {
+    "color_mode": "full",
+    "use_ansi": true,
+    "glitch_chance": 0.18
+  },
+  "branding": {
+    "author": "Tony Jose Matos",
+    "handle": "@TonyJMatos",
+    "studio": "LABL Design • The Diamond Riot"
+  }
+}
